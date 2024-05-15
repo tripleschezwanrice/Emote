@@ -20,7 +20,7 @@ The training process took a total of **6 hours and 34 minutes** on a 2020 M1 Mac
 ## Getting Started
 1. Clone the repository:
     ```bash
-    git clone https://github.com/adistrim/EmoVision.git
+    git clone https://github.com/tripleschezwanrice/Emote.git
     ```
 2. Install required libraries:
     ```bash
